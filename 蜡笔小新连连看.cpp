@@ -2,7 +2,8 @@
 *功能：连连看
 *制作人：Ryoko
 *编译环境： VC++ 6.0
-*程序语言： C语言\C++(graphics.h)
+*程序语言： C&C++
+*库：EaxyX
 **************************/
 
 #include <stdio.h>
@@ -1797,7 +1798,3 @@ void Play_refresh_Sound()
 	//播放音乐
 	mciSendString("play refresh.mp3 from 0 ",NULL,0,NULL);
 }
-
-
-
-
