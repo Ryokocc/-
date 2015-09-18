@@ -739,7 +739,7 @@ void Begin_Play_Manu()
 	//版本
 	settextstyle(22, 10, _T("Verdana"));
 	settextcolor(PINLAN);
-	outtextxy(600, 213, _T("v2.0 ---By:李婷"));
+	outtextxy(600, 213, _T("v2.0 ---By:Ryoko"));
 	
 	//说明
 	settextstyle(22, 10, _T("Verdana"));
